@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "wiki"
+AuthUserFile "/home/madenbsd/.htpasswds/northtechnologies.uk/wiki/passwd"
+require valid-user

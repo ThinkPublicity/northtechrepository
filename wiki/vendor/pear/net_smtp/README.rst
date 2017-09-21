@@ -1,0 +1,1 @@
+/home/madenbsd/northtechnologies.uk/wiki/vendor/pear/net_smtp/docs/guide.txt
